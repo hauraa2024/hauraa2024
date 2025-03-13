@@ -1,11 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 hr 23 mins    ███████████████████░░░░░░   76.61 %
-Blade Template   22 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
-Apache Config    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+PHP              43 mins         █████████████████████▓░░░   86.97 %
+Blade Template   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
 ```
 
 <!--END_SECTION:waka-->
