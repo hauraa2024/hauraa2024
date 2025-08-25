@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blade Template   1 hr 54 mins    ████████████▓░░░░░░░░░░░░   50.70 %
+Dart             1 hr            ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+HTML             19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+CSS              17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+PHP              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 <!--END_SECTION:waka-->
